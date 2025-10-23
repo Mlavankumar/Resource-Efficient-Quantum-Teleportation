@@ -1,4 +1,4 @@
-<img width="692" height="303" alt="ea078c8f-60e0-41b2-8fc2-be1b230a9a40" src="https://github.com/user-attachments/assets/6953d1fb-eaf3-49db-8ec1-3ee3f01bdf2a" /># Resource-Efficient-Quantum-Teleportation
+# Resource-Efficient-Quantum-Teleportation
 This project explores a resource-efficient quantum teleportation protocol that minimizes the use of entangled qubits and classical communication bits while maintaining fidelity. It demonstrates improved teleportation efficiency using optimized quantum circuits and simulation.
 
 
